@@ -1,5 +1,5 @@
 ---
-title: Everyday Carry: Pencil-It-In Prescription
+title: Pencil-It-In Prescription
 subtitle: Black wood pencils
 layout: default
 modal-id: 6

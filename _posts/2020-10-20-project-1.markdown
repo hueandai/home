@@ -1,5 +1,5 @@
 ---
-title: Clean Slate: No Paint, No Gain
+title: No Paint, No Gain
 subtitle: Watercolor paper (140 gsm)
 layout: default
 modal-id: 1
