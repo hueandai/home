@@ -4,12 +4,12 @@ subtitle: watercolor paper (pad)
 layout: default
 modal-id: 1
 price: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: npng-pad.png
+thumbnail: npng-pad-thumbnail.png
 alt: image-alt
 price: PHP 199 | USD 4 | AUD 6
 size: 130 x 195 mm
 quantity: 20 sheets
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This paper works well with most media, particularly watercolor and gouache. Some warping may occur when you use a lot of water.
 
 ---
