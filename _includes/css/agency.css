@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: Brandon, Helvetica Neue,Helvetica,Arial;
-    color: #{{ site.data.template.color.primary }};
+    color: #666666;
 }
 
 .navbar-default .navbar-brand:hover,
