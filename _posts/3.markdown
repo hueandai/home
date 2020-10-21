@@ -1,0 +1,14 @@
+---
+title: Rare Medium Well
+subtitle: Mixed media paper (250 gsm)
+layout: default
+modal-id: 3
+img: rmw-pad.png
+thumbnail: rmw-pad-thumbnail.png
+alt: watercolor pad and art supplies
+price: PHP 299 | USD 6 | AUD 8.50
+size: 149 x 210 mm
+quantity: 20 sheets
+description: This paper works well with most media, including acrylic and colored pencils. For best results, create a base layer using gesso.
+
+---

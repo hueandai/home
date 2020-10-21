@@ -1,0 +1,14 @@
+---
+title: Rare Medium Well
+subtitle: Mixed media paper (250 gsm)
+layout: default
+modal-id: 4
+img: rmw-sheets.png
+thumbnail: rmw-sheets-thumbnail.png
+alt: mixed media papers
+price: PHP 179 | USD 3.50 | AUD 5
+size: 196 x 273 mm
+quantity: 10 sheets
+description: This paper works well with most media, including acrylic and colored pencils. For best results, create a base layer using gesso.
+
+---

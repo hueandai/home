@@ -1,0 +1,14 @@
+---
+title: Everyday Carry: Pencil-It-In Prescription
+subtitle: Black wood pencils
+layout: default
+modal-id: 6
+img: black-wood-pencils.png
+thumbnail: black-wood-pencils-thumbnail.png
+alt: pencils
+price: PHP 179 | USD 3.50 | AUD 5
+size: 7.3 x 175 mm
+quantity: 3 pencils
+description: These pencils are a reminder to always dream (mangarap), persevere (magsikap), and celebrate (magdiwang). Write down thoughts or sketch out ideas even when inspiration does not strike.
+
+---

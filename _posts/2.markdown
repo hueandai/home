@@ -1,0 +1,14 @@
+---
+title: No Paint, No Gain
+subtitle: watercolor paper (sheets)
+layout: default
+modal-id: 2
+img: npng-sheets.png
+thumbnail: npng-sheets-thumbnail.png
+alt: watercolor sheets
+price: PHP 149 | USD 3 | AUD 4
+size: 196 x 273 mm
+quantity: 10 sheets
+description: This paper works well with most media, particularly watercolor and gouache. Some warping may occur when you use a lot of water.
+
+---

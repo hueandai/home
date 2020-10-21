@@ -1,12 +1,11 @@
 ---
-title: No Paint, No Gain
-subtitle: watercolor paper (pad)
+title: Clean Slate: No Paint, No Gain
+subtitle: Watercolor paper (140 gsm)
 layout: default
 modal-id: 1
-price: 2014-07-18
 img: npng-pad.png
 thumbnail: npng-pad-thumbnail.png
-alt: image-alt
+alt: watercolor pad and art supplies
 price: PHP 199 | USD 4 | AUD 6
 size: 130 x 195 mm
 quantity: 20 sheets

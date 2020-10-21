@@ -1,0 +1,14 @@
+---
+title: Clean Slate: Artsyficial Intelligence
+subtitle: Tree-Free Paper (200 gsm)
+layout: default
+modal-id: 5
+img: tfp-sheets.png
+thumbnail: tfp-sheets-thumbnail.png
+alt: tree-free paper
+price: PHP 349 | USD 7 | AUD 10
+size: 196 x 273 mm
+quantity: 10 sheets
+description: This paper works best with alcohol ink, liquid acrylic, and watercolor. The extra smooth surface makes it ideal for fluid art or pour painting.
+
+---
