@@ -1,6 +1,6 @@
 ---
 title: No Paint, No Gain
-subtitle: watercolor paper (sheets)
+subtitle: Watercolor paper (140 gsm)
 layout: default
 modal-id: 2
 img: npng-sheets.png
