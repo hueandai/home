@@ -1,0 +1,14 @@
+---
+title: High Cotton
+subtitle: 100% cotton paper (300 gsm)
+layout: default
+modal-id: 5
+img: cotton-paper.png
+thumbnail: cotton-paper-thumbnail.png
+alt: 100% cotton paper  
+price: PHP 299 | USD 6 | AUD 8.50
+size: 196 x 273 mm
+quantity: 10 sheets
+description: This paper works best with watercolor. The rough texture enables easy blending and layering, and makes the paper ideal for wet-on-wet painting.
+
+---

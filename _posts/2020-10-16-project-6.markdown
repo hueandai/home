@@ -2,7 +2,7 @@
 title: Artsyficial Intelligence
 subtitle: Tree-Free Paper (200 gsm)
 layout: default
-modal-id: 5
+modal-id: 6
 img: tfp-sheets.png
 thumbnail: tfp-sheets-thumbnail.png
 alt: tree-free paper

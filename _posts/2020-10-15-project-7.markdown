@@ -2,7 +2,7 @@
 title: Pencil-It-In Prescription
 subtitle: Black wood pencils
 layout: default
-modal-id: 6
+modal-id: 7
 img: black-wood-pencils.png
 thumbnail: black-wood-pencils-thumbnail.png
 alt: pencils
