@@ -658,13 +658,13 @@ aside.clients img {
 
 section#contact {
     background-color: #fffffff;
-    background-image: url('{{ site.baseurl }}/img/contact-bg.png');
+/*    background-image: url('{{ site.baseurl }}/img/contact-bg.png');*/
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #333333;
 }
 
 section#contact .form-group {
