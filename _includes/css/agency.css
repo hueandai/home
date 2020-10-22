@@ -374,7 +374,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #999999; /* Fallback when no plugin support */
+    background: #f2be6a; /* Fallback when no plugin support */
     background: rgba(#f2be6a | hex_to_rgb | join: ',' }}, .9);
 }
 
