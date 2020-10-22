@@ -1,0 +1,14 @@
+---
+title: Jar Jar Inks
+subtitle: Leakproof jars
+layout: default
+modal-id: 7
+img: leakproof-jars.png
+thumbnail: leakproof-jars-thumbnail.png
+alt: jars
+price: PHP 149 | USD 3 | AUD 4
+size: 80 ml
+quantity: 2 jars
+description: Take inks, paint water, and liquids with you wherever you go.
+
+---
